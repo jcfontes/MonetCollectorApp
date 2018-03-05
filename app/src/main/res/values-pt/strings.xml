@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="developed_by">Desenvolvido pelo Josinaldo C Fontes</string>
+    <string name="navigation_drawer_open">Abrir navegação lateral</string>
+    <string name="navigation_drawer_close">Fechar navegação lateral</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_password">Senha</string>
+    <string name="btn_forgot_password">Esqueceu sua senha?</string>
+    <string name="btn_link_to_login">Já tenho registro. Acessar!</string>
+    <string name="btn_link_to_register">Não tem cadastro? Crie agora seu registro!</string>
+    <string name="navigation_filter">Digite aqui...</string>
+    <string name="action_sign_in">Acessar ou cadastrar</string>
+    <string name="action_sign_in_short">Acessar</string>
+    <string name="action_sign_up_short">Criar Conta</string>
+    <string name="error_invalid_email">Digite um email válido</string>
+    <string name="error_invalid_password">Digite uma senha válida</string>
+    <string name="error_incorrect_password">Senha incorreta</string>
+    <string name="error_field_required">Este campo é obrigatório</string>
+    <string name="alert_loading">Carregando...</string>
+    <string name="title_item_list">Itens</string>
+    <string name="title_item_detail">Detalhes do Item</string>
+    <string name="category_title">Categorias</string>
+    <string name="category_title_add">Adicionar Categoria</string>
+    <string name="category_name">Nome</string>
+    <string name="category_description">Descrição</string>
+    <string name="category_name_required">O Nome é obrigatório</string>
+    <string name="category_desc_required">A Descrição é obrigatória</string>
+    <string name="item_title">Itens</string>
+    <string name="item_title_add_item">Adicionar Item</string>
+    <string name="item_name">Nome</string>
+    <string name="item_description">Descrição</string>
+    <string name="item_name_required">O Nome é obrigatório</string>
+    <string name="item_desc_required">A Descrição é obrigatória</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_category">Categorias</string>
+    <string name="menu_logout">Sair</string>
+    <string name="error_at_least_3">Pelo menos 3 caracteres</string>
+    <string name="error_between_4_and_10">Entre 4 e 10 caracteres alfanuméricos</string>
+    <string name="error_auth_failed">Autenticação falhou</string>
+    <string name="error_invalid_access">Acesso inválido</string>
+    <string name="msg_forgot_password">Nós apenas precisamos do seu email cadastrado para enviar um email troca de senha.</string>
+    <string name="btn_reset_password">Trocar Senha</string>
+    <string name="error_reset_password">Erro ao enviar o email de troca de senha!</string>
+    <string name="msg_reset_password">Nós te enviamos instruções para trocar sua senha!</string>
+    <string name="btn_back_to_login">Voltar para o login...</string>
+    <string name="btn_remember_me">Lembrar email e senha</string>
+    <string name="error_not_connected">Não há conexão com a internet</string>
+    <string name="category_deleted">Categoria deletada!</string>
+
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.jcfontes.monetcollector.activities.CategoryAddActivity"
+    android:background="@color/backgroundSplash">
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/fragment_add_category"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="br.com.jcfontes.monetcollector.activities.CategoryFragment">
+
+        <include layout="@layout/category_fragment_edit_content" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:layout_margin="@dimen/fab_margin"
+            android:tint="@color/colorThirdText"
+            app:srcCompat="@android:drawable/ic_menu_save" />
+
+    </FrameLayout>
+
+</android.support.constraint.ConstraintLayout>

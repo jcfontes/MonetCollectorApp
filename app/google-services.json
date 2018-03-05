@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602878956148",
+    "firebase_url": "https://monetcollector.firebaseio.com",
+    "project_id": "monetcollector",
+    "storage_bucket": "monetcollector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602878956148:android:634e71a6ff6577d6",
+        "android_client_info": {
+          "package_name": "br.com.jcfontes.monetcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602878956148-142bj404da7d7lm7umn42f3rimb2cchg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.jcfontes.monetcollector",
+            "certificate_hash": "702e8bccf16ee0587dda3e118dba0f40cd8e8da7"
+          }
+        },
+        {
+          "client_id": "602878956148-9nusm4maimhlc75va7lruirav4dh5m2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo2PyseizNH-Oe44cg1vfIhkeF2EiYLdc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602878956148-9nusm4maimhlc75va7lruirav4dh5m2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
